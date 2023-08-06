@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: hwb(238 1% 53%);
+    
+  }
+  
+  header {
+    background-color: #333;
+    color: #3727c5;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  h1, h2 {
+    margin: 20px 0;
+  }
+  
+  .foto img {
+    display: block;
+    max-width: 50%;
+    margin: 0 auto;
+  }
+  
+  .bio{
+    text-align: center;
+  }
+  
+  ul, ol {
+    padding-left: 20px;
+  }
+  
+  ul li, ol li {
+    margin-bottom: 5px;
+  }
+  
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .definitions-section dt {
+    font-weight: bold;
+  }
+  
+  .definitions-section dd {
+    margin-bottom: 10px;
+  }
+  
+  .nested-list-section ul {
+    margin-top: 10px;
+  }
+  
